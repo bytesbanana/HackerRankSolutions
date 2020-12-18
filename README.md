@@ -1,6 +1,6 @@
 # HackerRank Solutions
 
-This repository contains my hackerrank solutions.
+This repository contains problem statements from [www.hackerrank.com](https://hackerrank.com) and my solutions.
 
 ## Interview Preparation Kit
 | Category   |      Challenge Name      |  Solution |
