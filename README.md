@@ -12,11 +12,11 @@ This repository contains problem statements from [www.hackerrank.com](https://ha
 |  Arrays   |    Minimum Swap 2     |    [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Arrays/MinimumSwap2/Solution.java)     |
 |  Arrays   |    New Year Chaos     |    [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Arrays/NewYearChaos/Solution.java)     |
 
-## Warm-up Challenges
+### 
 
 | Subdomain |    Challenge Name     |                                                                      Solution                                                                       |
 | :-------: | :-------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Arrays   |   Counting Valleys    |  [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Warm-up%20Challenges/CountingValleys/Solution.java)   |
-|  Arrays   | Jumping On The Clouds | [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Warm-up%20Challenges/JumpingOnTheClouds/Solution.java) |
-|  Arrays   |    Repeated String    |   [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Warm-up%20Challenges/RepeatedString/Solution.java)   |
-|  Arrays   |    Sales By Match     |    [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Warm-up%20Challenges/SalesByMatch/Solution.java)    |
+|  Warm-up Challenges   |   Counting Valleys    |  [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Warm-up%20Challenges/CountingValleys/Solution.java)   |
+|  Warm-up Challenges   | Jumping On The Clouds | [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Warm-up%20Challenges/JumpingOnTheClouds/Solution.java) |
+|  Warm-up Challenges   |    Repeated String    |   [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Warm-up%20Challenges/RepeatedString/Solution.java)   |
+|  Warm-up Challenges   |    Sales By Match     |    [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Warm-up%20Challenges/SalesByMatch/Solution.java)    |
