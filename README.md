@@ -39,7 +39,6 @@ This repository contains problem statements from [www.hackerrank.com](https://ha
 |Algorithms|Implementation|Migratory Birds|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/MigratoryBirds/Solution.cpp)|
 |Algorithms|Implementation|Number Line Jumps|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/NumberLineJumps/Solution.cpp)|
 |Algorithms|Implementation|Repeated String|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/RepeatedString/Solution.java)|
-|Algorithms|Implementation|Repeated String|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/RepeatedString/Solution.cpp)|
 |Algorithms|Implementation|Sales By Match|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/SalesByMatch/Solution.java)|
 |Algorithms|Implementation|Sub-Array Division|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/Sub-ArrayDivision/Solution.cpp)|
 
