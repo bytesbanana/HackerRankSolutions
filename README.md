@@ -29,3 +29,36 @@ This repository contains problem statements from [www.hackerrank.com](https://ha
 |Algorithms|Warmup|Solve Me First|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Warmup/SolveMeFirst/Solution.cpp)|
 |Algorithms|Warmup|Staircase|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Warmup/Staircase/Solution.cpp)|
 |Algorithms|Warmup|Time Conversion|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Warmup/TimeConversion/Solution.cpp)|
+|Algorithms|Implementation|AppleAndOrange|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/AppleAndOrange/Solution.cpp)|
+|Algorithms|Implementation|Between Two Sets|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/BetweenTwoSets/Solution.cpp)|
+|Algorithms|Implementation|Breaking The Records|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/BreakingTheRecords/Solution.cpp)|
+|Algorithms|Implementation|Counting Valley|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/CountingValley/Solution.java)|
+|Algorithms|Implementation|Divisible Sum Pairs|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/DivisibleSumPairs/Solution.cpp)|
+|Algorithms|Implementation|Grading Student|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/GradingStudent/Solution.cpp)|
+|Algorithms|Implementation|Jumping On The Clouds|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/JumpingOnTheClouds/Solution.java)|
+|Algorithms|Implementation|Migratory Birds|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/MigratoryBirds/Solution.cpp)|
+|Algorithms|Implementation|Number Line Jumps|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/NumberLineJumps/Solution.cpp)|
+|Algorithms|Implementation|Repeated String|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/RepeatedString/Solution.java)|
+|Algorithms|Implementation|Repeated String|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/RepeatedString/Solution.cpp)|
+|Algorithms|Implementation|Sales By Match|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/SalesByMatch/Solution.java)|
+|Algorithms|Implementation|Sub-Array Division|[Go to solution](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Problem%20Solving/Algorithms/Implementation/Sub-ArrayDivision/Solution.cpp)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
