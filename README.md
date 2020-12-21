@@ -11,11 +11,6 @@ This repository contains problem statements from [www.hackerrank.com](https://ha
 |  Arrays   | Arrays: Left Rotation | [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Arrays/Arrays-LeftRotation/Solution.java) |
 |  Arrays   |    Minimum Swap 2     |    [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Arrays/MinimumSwap2/Solution.java)     |
 |  Arrays   |    New Year Chaos     |    [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Arrays/NewYearChaos/Solution.java)     |
-
-### 
-
-| Subdomain |    Challenge Name     |                                                                      Solution                                                                       |
-| :-------: | :-------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  Warm-up Challenges   |   Counting Valleys    |  [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Warm-up%20Challenges/CountingValleys/Solution.java)   |
 |  Warm-up Challenges   | Jumping On The Clouds | [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Warm-up%20Challenges/JumpingOnTheClouds/Solution.java) |
 |  Warm-up Challenges   |    Repeated String    |   [Link](https://github.com/ByteBanana/HackerRankSolutions/blob/main/Interview%20Prepare%20Kit/Warm-up%20Challenges/RepeatedString/Solution.java)   |
