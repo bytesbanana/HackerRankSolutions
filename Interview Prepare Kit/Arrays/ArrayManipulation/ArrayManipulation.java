@@ -1,17 +1,11 @@
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
-public class Solution {
+public class ArrayManipulation {
 
     // Complete the arrayManipulation function below.
     static long arrayManipulation(int n, int[][] queries) {
         long[] arr = new long [n+1];
-        int r = -1 , l = -1;
         long maxValue = Long.MIN_VALUE;
         
         for(int i = 0 ; i < queries.length;i++){
